@@ -105,6 +105,7 @@ Do any of the following
 3. Create a new Twitter persona and wire up your markov program with the twitter module (import twitter) to produce random tweets.
 
 #Getting started on twitter
+
 - [ ] Create a new account on twitter.com
 - [ ] Create an app to post from on dev.twitter.com
 - [ ] Goto settings > Check Read / Write under App Type
