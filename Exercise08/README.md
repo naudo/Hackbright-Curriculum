@@ -1,5 +1,6 @@
-Exercise 08: Markov Chains (Hint: the answer is dictionaries)
-=======
+#Exercise 08: Markov Chains 
+####(Hint: the answer is dictionaries)
+
 
 Introduction
 -------
