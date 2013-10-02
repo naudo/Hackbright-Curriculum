@@ -110,7 +110,7 @@ Do any of the following
 - Create an app to post from on dev.twitter.com
 - Goto settings > Check "Read / Write" under App Type
 - Click the update settings button at the bottom
-- Go back to the first page and click generate key
+- Go back to the first page and click generate keys
 - *note* Twitter can be a bit slow with this, sometime it can take a couple of minutes to showup
 
 You will now have a shiny new twitter app with the required keys for python-twitter
